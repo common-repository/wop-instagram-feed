@@ -1,0 +1,4 @@
+.wiginstagram { float: left; width: 100%; }
+.wiginstagram ul { list-style: none; list-style-type: none; }
+.wiginstagram li{ margin: 0; padding: 0; float: left; width: 25%; }
+
